@@ -5,5 +5,5 @@ If you are interested in creating a shake effect in Android, check out this exam
 
 The relevant code is in the MainActivity where you actually perform the animation, and the animation resource file, found in res/anim/shake.xml.
 
-Feel free to use this code, criticize it or just contact me.
+Feel free to use this code, criticize it or just contact me at teoinke@gmail.com.
 
